@@ -1,1 +1,2 @@
 this is a new file for git
+now i am changing it
